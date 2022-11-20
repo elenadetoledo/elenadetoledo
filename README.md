@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Huskell, JavaScript 
 - 📫 How to reach me: elenadetoledohdez@gmail.com
 - Main interest: Artificial Intelligence, Data Analysis, Numerical Analysis
-
+- Favorite languages: Python, SQL, C
