@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elena de Toledo Hernández</h1>
-<h3 align="center">I'm currently pursuing a degree on Applied Mathematics and Computer Science. I'm working simultaneously on completing the 42 cursus.</h3>
-
+<h3 align="center">I'm currently pursuing a degree on Applied Mathematics and Computer Science.
+<h3 align="center"> I'm working simultaneously on completing the 42 cursus.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/elenadetoledo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elenadetoledo/" height="30" width="40" /></a>
