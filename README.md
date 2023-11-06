@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elena de Toledo Hernández</h1>
 <h3 align="center">I'm currently pursuing a degree on Applied Mathematics and Computer Science.
 <h3 align="center"> I'm working simultaneously on completing the 42 cursus.</h3>
-<h3 align="left">Connect with me:</h3> "https://www.linkedin.com/in/elenadetoledo/"
+<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/elenadetoledo/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
