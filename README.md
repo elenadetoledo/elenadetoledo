@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elena de Toledo </h1>
-<h3 align="center">I'm currently pursuing a degree on Applied Mathematics and Computer Science.
-<h3 align="center"> I'm working simultaneously on completing the 42 cursus.</h3>
+<align="center">I'm currently pursuing a degree on Applied Mathematics and Computer Science.
+<align="center"> I'm working simultaneously on completing the 42 cursus.</h3>
 <h3 align="left">Connect with me: https://www.linkedin.com/in/elenadetoledo/
 
 ## Featured Projects
