@@ -6,7 +6,7 @@
 ## Featured Projects
 - [Project 1](https://github.com/elenadetoledo/minishell-OperatingSystems): Implementation of a minishell
 - [Project 2](https://github.com/elenadetoledo/Splines---Numerical-Analysis): Life expectancy prediction using Splines method.
-- [Project 3](https://github.com/elenadetoledo/Traffic-intersection-problem): Implementation of Markov to solve the Traffic Intersection Problem.
+- [Project 3](https://github.com/elenadetoledo/Traffic-intersection-problem): Implementation of a Markov Decision Process to solve the [Traffic Intersection Problem](https://www.sciencedirect.com/science/article/pii/S2405896316302075)
 
 
 <h3 align="left">Languages and Tools:</h3>
