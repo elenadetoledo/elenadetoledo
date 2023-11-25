@@ -3,7 +3,7 @@
    <p align="center">I'm currently pursuing a degree in Applied Mathematics and Computer Science. Simultaneously, I'm working on completing the 42 cursus.</p>
 </div>
 <h3 align="left" style="color: #0074E4;" >Connect with me:</h3>
-<p align="left"> Via [LinkedIn] (https://www.linkedin.com/in/elenadetoledo/)
+<p align="left"> https://www.linkedin.com/in/elenadetoledo/
 </p>
 
 ## Featured Projects
