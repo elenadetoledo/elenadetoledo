@@ -1,6 +1,6 @@
 <div style="border: 2px solid #555; padding: 10px; border-radius: 5px; text-align: center;">
    <h1 align="center"style="color: #05014a;">Hi, I'm Elena de Toledo 🚀</h1>
-   <p align="center">I'm currently pursuing a degree in Applied Mathematics and Computer Science. Simultaneously, I'm working on completing the 42 cursus.</p>
+   <p align="center">I'm currently pursuing a degree in Applied Mathematics and Computing. Simultaneously, I'm working on completing the 42 cursus.</p>
 </div>
 <h3 align="left" style="color: #0074E4;" >Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/elenadetoledo/
