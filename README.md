@@ -1,6 +1,6 @@
 <div style="border: 2px solid #555; padding: 10px; border-radius: 5px; text-align: center;">
-   <h1 align="center"style="color: #05014a;">Elena de Toledo</h1>
-   <p align="center">Currently pursuing a degree in Applied Mathematics and Computing. Simultaneously, working on completing the 42 cursus.</p>
+   <h1 align="center"style="color: #05014a;">Elena de Toledo Hernández</h1>
+   <p align="center">Currently pursuing a Masters in Mathematical Engineering. Simultaneously, working on completing the 42 cursus.</p>
 </div>
 <h3 align="left" style="color: #0074E4;" >Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/elenadetoledo/
